@@ -1,4 +1,4 @@
-# System Design Capstone
+# Retail System Design
 A complete back-end system to support an e-commerce retail client and sustain up to 10,000 requests per second.
 
 ### Inherited Codebase
